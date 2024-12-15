@@ -1,33 +1,19 @@
-# 7test357
+# 👋 안녕하세요, 저는 @7test357입니다!
 
-- 👋 Hi, I’m @7test357
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 **관심 분야:** 개발, 머신러닝, 데이터 분석
+- 🌱 **현재 배우고 있는 것:** Python, React, 데이터 시각화
+- 💞️ **협업하고 싶은 분야:** 오픈 소스 프로젝트, 웹 개발
+- 📫 **연락 방법:** [이메일 주소](mailto:your-email@example.com) 또는 [LinkedIn 프로필](https://www.linkedin.com/in/your-profile)
+- 😄 **사용하는 대명사:** 그는/그녀는/그들
+- ⚡ **재미있는 사실:** 저는 매일 새로운 기술을 배우는 것을 좋아합니다!
 
-7test357/7test357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+## 프로젝트
+- [프로젝트 1](링크): 간단한 설명
+- [프로젝트 2](링크): 간단한 설명
 
-### Main Tools
-<div width="100%">
-  <img align="left" src="" alt="html" height="50px"/>
-  <img align="left" src="" alt="css" height="50px"/>
-  <img align="left" src="" alt="javascript" height="50px"/>
-  <img align="left" src="" alt="spring security" height="50px"/>
-  <img align="left" src="" alt="spring data jpa" height="50px"/>
-  <img align="left" src="" alt="mysql" height="50px"/>
-  <img align="left" src="" alt="aws ec2" height="50px"/>
-  <img align="left" src="" alt="aws rds" height="50px"/>
-  <img align="left" src="" alt="jwt" height="50px"/>
-</div>
+## 기술 스택
+- **프로그래밍 언어:** Python, JavaScript, Java
+- **프레임워크:** React, Django
+- **도구:** Git, Docker, VS Code
 
-### Currently Developing Tools
-<div width="100%">
-  <img align="left" src="" alt="docker" height="50px"/>
-  <img align="left" src="" alt="github actions" height="50px"/>
-  <img align="left" src="" alt="linux" height="50px"/>
-  <img align="left" src="" alt="nginx" height="50px"/>
-</div>
+감사합니다! 😊

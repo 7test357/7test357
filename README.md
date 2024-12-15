@@ -9,7 +9,7 @@
 
 ## 프로젝트
 - [프로젝트 1](https://www.naver.com): 네이버
-- [프로젝트 2]([링크](https://google.com)): 구글
+- [프로젝트 2](https://google.com): 구글
 
 ## 기술 스택
 - **프로그래밍 언어:** Python, JavaScript, Java
